@@ -1,0 +1,32 @@
+{
+    "cards": [
+        {
+            "idol": "Mai",
+            "group": "izna",
+            "rarity": "2",
+            "code": "IZNA.MAI.IZNA",
+            "photo": "https://cdn.discordapp.com/attachments/1418348309898203280/1418349096321941524/IMG_5193.png?ex=68cfc648&is=68ce74c8&hm=114d0bff2345874496f18a27160b91c062abb713e197d7fa27c08344132cfb1a&"
+        },
+        {
+            "idol": "Mai",
+            "group": "izna",
+            "rarity": "1",
+            "code": "IZNA.MAI.NA",
+            "photo": "https://cdn.discordapp.com/attachments/1418348309898203280/1418450641646260275/IMG_5176.png?ex=68d024da&is=68ced35a&hm=c5b62309b24161fb44a32864bad4ef754653a27733cdcf84a39b7af2eeda060d&"
+        },
+        {
+            "idol": "Mai",
+            "group": "izna",
+            "rarity": "3",
+            "code": "IZNA.MAI.DAZED",
+            "photo": "https://cdn.discordapp.com/attachments/1418348309898203280/1418348769078149170/IMG_5186.png?ex=68cfc5fa&is=68ce747a&hm=91d2f9719aa6a1bc7c552bbc5cfcce556559515333cfe7fdc87a3b4647694a83&"
+        },
+        {
+            "idol": "Mai",
+            "group": "izna",
+            "rarity": "4",
+            "code": "IZNA.MAI.SKETCH",
+            "photo": "https://cdn.discordapp.com/attachments/1418348309898203280/1418349096996962506/IMG_5197.png?ex=68cfc648&is=68ce74c8&hm=74f284420f28e665cc8aa5b5410060b92029e36bc3089187236919a48c80f432&"
+        }
+    ]
+}

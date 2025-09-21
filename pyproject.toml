@@ -1,0 +1,9 @@
+[project]
+name = "woodz-bot"
+version = "0.1.0"
+description = "A Discord bot for card collection and resource management game"
+authors = ["Bot Developer <dev@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "discord-py>=2.3.0",
+]
